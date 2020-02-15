@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Selling drugs isn't easy](https://i.redd.it/unbjv837q2h41.png)
