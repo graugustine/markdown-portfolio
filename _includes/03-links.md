@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Online CV](https://www.kickresume.com/cv/gregory-augustine/)
