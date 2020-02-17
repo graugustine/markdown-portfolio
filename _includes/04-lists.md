@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+### Favorite coffee shops in Fargo
+- Youngblood
+- 20below
+- Third Drop
+- Babb's
+- Bully Brew
